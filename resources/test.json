@@ -1,0 +1,7 @@
+{
+    "key": "val",
+    "key_arr": ["a", "b", "c"],
+    "key_obj": {
+        "test2": "value2"
+    }
+}
